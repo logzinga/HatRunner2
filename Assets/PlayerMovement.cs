@@ -7,14 +7,14 @@ public class PlayerMovement : MonoBehaviour
 
     public Rigidbody rb;
 
-    public float forwardForce = 1500f;
+    public float forwardForce = 1500f; // This is the default Selection for moving forward
 
-    public float sidewaysForce = 500f;
+    public float sidewaysForce = 500f; // Sideways Force for moving side to side
 
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Script Loaded!");
+        Debug.Log("Script Loaded!"); // Tells console that the Script loaded CHANGEME
     }
 
     // FixedUpdate is here due to Unity being picky with physics
@@ -24,12 +24,12 @@ public class PlayerMovement : MonoBehaviour
             // Left and Right Movements, important to movement
         if ( Input.GetKey("d"))
         {
-            rb.AddForce(sidewaysForce * Time.deltaTime, 0, 0);
+            rb.AddForce(sidewaysForce * Time.deltaTime, 0, 0); // Side movement to the Right, Using the D Button
         }
 
           if ( Input.GetKey("a"))
         {
-            rb.AddForce(-sidewaysForce * Time.deltaTime, 0, 0);
+            rb.AddForce(-sidewaysForce * Time.deltaTime, 0, 0);  // Side movement to the Left, Using the A button
         }
     }
 }
