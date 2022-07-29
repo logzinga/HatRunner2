@@ -7,9 +7,9 @@ public class PlayerMovement : MonoBehaviour
 
     public Rigidbody rb;
 
-    public float forwardForce = 1500f; // This is the default Selection for moving forward
+    public float forwardForce = 500f; // This is the default Selection for moving forward
 
-    public float sidewaysForce = 500f; // Sideways Force for moving side to side
+    public float sidewaysForce = 1500f; // Sideways Force for moving side to side
 
     // Start is called before the first frame update
     void Start()
