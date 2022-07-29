@@ -15,4 +15,8 @@ The Version of Unity that is being used is 2021.3.4f1
 * Created Floor
 
 * Made Camera follow Player
+
+* Player Death
+
+* World (In Progress)
  
