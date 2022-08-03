@@ -11,6 +11,6 @@ public class Score : MonoBehaviour
     void Update()
     {
        // Debug.Log(player.position.z);
-        scoreText.text = player.position.z.ToString("0");
+        scoreText.text = player.position.z.ToString("0"); // converts player position to the score, basically
     }
 }
