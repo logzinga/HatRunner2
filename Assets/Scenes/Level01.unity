@@ -737,13 +737,14 @@ GameObject:
   - component: {fileID: 308180783}
   - component: {fileID: 308180782}
   - component: {fileID: 308180781}
+  - component: {fileID: 308180785}
   m_Layer: 5
   m_Name: LevelComplete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!95 &308180781
 Animator:
   serializedVersion: 4
@@ -824,6 +825,18 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &308180785
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 308180780}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91388e7837119f0d09d51e0d52e7a652, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &345195535
 PrefabInstance:
   m_ObjectHideFlags: 0
