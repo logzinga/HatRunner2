@@ -13,6 +13,7 @@ public class PlayerCollision : MonoBehaviour
             Debug.Log("Obstacle Hit!"); // Sends to Console that the Obstacle has been hit.
             playerMovement.enabled = false; // Disables Player Movement
             rb.AddForce(0, 50000 * Time.deltaTime, 0);
+            FindObjectOfType<GameManager>().EndGame();
         }
     }
 }
