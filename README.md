@@ -19,4 +19,8 @@ The Version of Unity that is being used is 2021.3.4f1
 * Player Death
 
 * World (In Progress)
+
+* Main Menu
+
+* Settings Menu
  
