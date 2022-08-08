@@ -24,3 +24,9 @@ The Version of Unity that is being used is 2021.3.4f1
 
 * Settings Menu
  
+
+# Credits
+
+"Canon In D Interstellar Mix" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
