@@ -7,12 +7,12 @@ public class MainMenu : MonoBehaviour
 {
     public void PlayGame ()
     {
-        SceneManager.LoadScene("Level01");
+        SceneManager.LoadScene("Level01"); // This makes the PLAY Button actually work
     }
 
     public void QuitGame ()
     {
-        Debug.Log("Quitting...");
+        Debug.Log("Quitting..."); // quits the game.
         Application.Quit();
     }
 

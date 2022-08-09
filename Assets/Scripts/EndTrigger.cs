@@ -7,6 +7,6 @@ public class EndTrigger : MonoBehaviour
 
     void OnTriggerEnter ()
     {
-        gameManager.CompleteLevel();
+        gameManager.CompleteLevel();        // when the player hits the End Block
     }
 }
