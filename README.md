@@ -23,6 +23,12 @@ The Version of Unity that is being used is 2021.3.4f1
 * Main Menu
 
 * Settings Menu
+
+* Pause Menu
+
+* Level Complete Screen
+
+* Level Two
  
 
 # Credits
