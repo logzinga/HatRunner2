@@ -1,6 +1,8 @@
 ## Hat Runner 2
 
-This Site is still Under construction, please wait for more information 
+Hat Runner 2 is a School Project of mine. This Project is based around Programming and Game Design.
+
+All Assets I use are avaliable on GitHub.
 
 
 ## Downloads
