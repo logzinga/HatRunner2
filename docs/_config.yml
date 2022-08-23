@@ -1,2 +1,6 @@
 show_downloads: true
 theme: jekyll-theme-cayman
+
+github:
+  zip_url: https://github.com/logzinga/HatRunner2/releases/download/v0.4/v0.4-Windows.zip
+  tar_url: https://github.com/logzinga/HatRunner2/releases/download/v0.4/v0.4-Linux.zip
