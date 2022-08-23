@@ -1,5 +1,4 @@
 show_downloads: true
-# theme: pages-themes/cayman
 remote_theme: logzinga/cayman
 
 github:
