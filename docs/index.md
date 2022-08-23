@@ -4,6 +4,8 @@ Hat Runner 2 is a School Project of mine. This Project is based around Programmi
 
 All Assets I use are avaliable on GitHub.
 
+![gameplay](https://hatrunner2.logzinga.com/images/gameplay.GIF "gameplay")
+
 
 ## Downloads
 
