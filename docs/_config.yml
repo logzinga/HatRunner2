@@ -1,5 +1,5 @@
 show_downloads: true
-download_android: true
+download_android: false
 remote_theme: logzinga/cayman
 
 github:
