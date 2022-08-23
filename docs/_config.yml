@@ -1,5 +1,5 @@
 show_downloads: true
-theme: logzinga/cayman
+theme: https://github.com/logzinga/cayman
 
 github:
   zip_url: https://github.com/logzinga/HatRunner2/releases/download/v0.4/v0.4-Windows.zip
