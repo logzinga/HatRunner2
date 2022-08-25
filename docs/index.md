@@ -20,6 +20,8 @@ All Assets I use are avaliable on GitHub.
 
 "11/10 is amazing, just cant get past the black blocks." - Isabelle
 
+"HAT RUNNER 2 IS TERRIBLE, F*CK YOU" - Bailey
+
 
 ## Downloads
 
