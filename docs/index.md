@@ -16,6 +16,10 @@ All Assets I use are avaliable on GitHub.
 
 "6/10 needs deeper lore" - Ethan
 
+"10/10 very good game goood good good game good" - Isaac
+
+"11/10 is amazing, just cant get past the black blocks." - Isabelle
+
 
 ## Downloads
 
