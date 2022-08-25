@@ -6,6 +6,16 @@ All Assets I use are avaliable on GitHub.
 
 ![gameplay](https://hatrunner2.logzinga.com/images/gameplay.GIF "gameplay")
 
+### Reviews
+
+"10/10 mind boggling and immersive" - Gen
+
+"10/10 life changing" - Tommy
+
+"10/10 would play again, specifically love the EthanMode" - Simon
+
+"6/10 needs deeper lore" - Ethan
+
 
 ## Downloads
 
