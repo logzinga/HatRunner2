@@ -22,6 +22,8 @@ All Assets I use are avaliable on GitHub.
 
 "Hat Runner 2 is a godly game that I have come across. What started off as a silly school project is now one of the best games out there. Hat Runner 2 includes immersive gameplay, a thrilling storyline, and beautifully crafted levels. I highly enjoy level 2 as it merges all recent aspects and really challenges you on what you have known from this game in the past 2 minutes. I also highly respect the creator as it is completely obvious that he has spent countless years, attempting to create a true masterpiece, and that he did. 1/10" - Bailey
 
+"13/10 uhh um uhhh hmmmm hhhh" - Jeremy
+
 
 ## Downloads
 
