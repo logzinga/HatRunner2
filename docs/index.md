@@ -27,7 +27,13 @@ All Assets I use are avaliable on GitHub.
 
 ## Downloads
 
-## Latest: v0.5
+## v0.6
+
+[Windows](https://github.com/logzinga/HatRunner2/releases/download/v0.6/v0.6-Windows.zip)
+
+[Linux](https://github.com/logzinga/HatRunner2/releases/download/v0.6/v0.6-Linux.tar.gz)
+
+## v0.5
 
 [Windows](https://github.com/logzinga/HatRunner2/releases/download/v0.5/v0.5-Windows.zip)
 
