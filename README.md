@@ -20,7 +20,7 @@ The Version of Unity that is being used is 2021.3.4f1
 
 * Player Death
 
-* World (In Progress)
+* World
 
 * Main Menu
 
@@ -43,6 +43,12 @@ The Version of Unity that is being used is 2021.3.4f1
 * Level Six
 
 * Level Seven
+
+* Level Eight
+
+* Level Nine
+
+* Level Ten
  
 
 # Credits
