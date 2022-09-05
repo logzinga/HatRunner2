@@ -158,7 +158,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.8742981, y: -3.497406}
+  m_AnchoredPosition: {x: 0.8742676, y: -3.497406}
   m_SizeDelta: {x: 47.2153, y: 27.9795}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &533065417
@@ -558,6 +558,7 @@ GameObject:
   - component: {fileID: 1844172883}
   - component: {fileID: 1844172882}
   - component: {fileID: 1844172881}
+  - component: {fileID: 1844172884}
   m_Layer: 5
   m_Name: Hat Runner 2
   m_TagString: Untagged
@@ -647,3 +648,15 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1844172879}
   m_CullTransparentMesh: 1
+--- !u!114 &1844172884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1844172879}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf25c18a4cfa22cbab52aa8355ae2a77, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
