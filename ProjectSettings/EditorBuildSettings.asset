@@ -79,8 +79,11 @@ EditorBuildSettings:
     guid: d25b5350228b31b699478a0c79d37d51
   - enabled: 1
     path: Assets/Scenes/Credits/Credits13.unity
-    guid: 8216f30efba95f7c992eb0e627040289
+    guid: 477068f00e1cfafec9739de461e530f7
   - enabled: 1
     path: Assets/Scenes/Credits/Credits14.unity
+    guid: 8216f30efba95f7c992eb0e627040289
+  - enabled: 1
+    path: Assets/Scenes/Credits/Credits15.unity
     guid: 5f7968f2e0cfe7cd0a12413e75a0dd1f
   m_configObjects: {}
