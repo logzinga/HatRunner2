@@ -9,4 +9,9 @@ public class CreditsNext : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1); // This loads the next level in the queue
     }
+
+    public void CreditsQuit ()
+    {
+        Application.Quit();
+    }
 }

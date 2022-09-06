@@ -41,4 +41,46 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level10.unity
     guid: dbd41c2640cf3d80faea3391c0c57390
+  - enabled: 1
+    path: Assets/Scenes/Credits/Credits.unity
+    guid: 54f670390c7982be9b4bd65105657dbd
+  - enabled: 1
+    path: Assets/Scenes/Credits/Credits2.unity
+    guid: 60402842060d8e9b9ad199e6f12075bf
+  - enabled: 1
+    path: Assets/Scenes/Credits/Credits3.unity
+    guid: e919c64772851ef6fb2ffd3d5261313d
+  - enabled: 1
+    path: Assets/Scenes/Credits/Credits4.unity
+    guid: 3412fff16bcbb3c2d9e27967afef55e2
+  - enabled: 1
+    path: Assets/Scenes/Credits/Credits5.unity
+    guid: e92525502bb0253e493b86f06fc08666
+  - enabled: 1
+    path: Assets/Scenes/Credits/Credits6.unity
+    guid: cfe810be83df70c0dae59d25adeeb25e
+  - enabled: 1
+    path: Assets/Scenes/Credits/Credits7.unity
+    guid: b74529ca5cc4b0c9e83e856d880e4f91
+  - enabled: 1
+    path: Assets/Scenes/Credits/Credits8.unity
+    guid: 200a06368016f13f0854cd3c38a720f7
+  - enabled: 1
+    path: Assets/Scenes/Credits/Credits9.unity
+    guid: 61a763e19a5a13963adcd59147eb3df6
+  - enabled: 1
+    path: Assets/Scenes/Credits/Credits10.unity
+    guid: 5f18fa8c091963df3a269d8365cae8e1
+  - enabled: 1
+    path: Assets/Scenes/Credits/Credits11.unity
+    guid: ea054b3e9d5944fbcba5f153069b6936
+  - enabled: 1
+    path: Assets/Scenes/Credits/Credits12.unity
+    guid: d25b5350228b31b699478a0c79d37d51
+  - enabled: 1
+    path: Assets/Scenes/Credits/Credits13.unity
+    guid: 8216f30efba95f7c992eb0e627040289
+  - enabled: 1
+    path: Assets/Scenes/Credits/Credits14.unity
+    guid: 5f7968f2e0cfe7cd0a12413e75a0dd1f
   m_configObjects: {}
