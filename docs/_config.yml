@@ -3,5 +3,5 @@ download_android: false
 remote_theme: logzinga/cayman-hatrunner2
 
 github:
-  zip_url: https://github.com/logzinga/HatRunner2/releases/download/v0.6/v0.6-Windows.zip
-  tar_url: https://github.com/logzinga/HatRunner2/releases/download/v0.6/v0.6-Linux.tar.gz
+  zip_url: https://github.com/logzinga/HatRunner2/releases/download/v1.0/v1.0-Windows.zip
+  tar_url: https://github.com/logzinga/HatRunner2/releases/download/v1.0/v1.0-Linux.tar.gz
